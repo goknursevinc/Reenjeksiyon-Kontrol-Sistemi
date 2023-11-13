@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Datas>
+  <Data>
+    <WellName>Kuyu 1</WellName>
+    <WaterFlow>513000</WaterFlow>
+    <WaterPressure>71</WaterPressure>
+    <WaterTemperature>154°C</WaterTemperature>
+    <Date>11.06.2022</Date>
+    <Time>09.17</Time>
+  </Data>
+  <Data>
+    <WellName>Kuyu 2</WellName>
+    <WaterFlow>348000</WaterFlow>
+    <WaterPressure>47</WaterPressure>
+    <WaterTemperature>120°C</WaterTemperature>
+    <Date>25.06.2022</Date>
+    <Time>14.49</Time>
+  </Data>
+</Datas>

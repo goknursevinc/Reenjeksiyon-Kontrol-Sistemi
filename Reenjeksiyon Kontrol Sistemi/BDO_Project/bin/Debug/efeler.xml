@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Veriler>
+  <Veri>
+    <Kuyu_Adı>Kuyu 1</Kuyu_Adı>
+    <Su_Debisi>457000</Su_Debisi>
+    <Su_Basıncı>50</Su_Basıncı>
+    <Su_Sıcaklığı>140°C</Su_Sıcaklığı>
+    <Tarih>17.05.2022</Tarih>
+    <Saat>16.38</Saat>
+  </Veri>
+  <Veri>
+    <Kuyu_Adı>Kuyu 2</Kuyu_Adı>
+    <Su_Debisi>436000</Su_Debisi>
+    <Su_Basıncı>46</Su_Basıncı>
+    <Su_Sıcaklığı>130°C</Su_Sıcaklığı>
+    <Tarih>25.05.2022</Tarih>
+    <Saat>15.45</Saat>
+  </Veri>
+</Veriler>

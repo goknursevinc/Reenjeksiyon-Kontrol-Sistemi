@@ -1,0 +1,13 @@
+C:\Users\Sevval Kolaca\Desktop\BDO Proje\BDO_Project\BDO_Project\bin\Debug\BDO_Project.exe.config
+C:\Users\Sevval Kolaca\Desktop\BDO Proje\BDO_Project\BDO_Project\bin\Debug\BDO_Project.exe
+C:\Users\Sevval Kolaca\Desktop\BDO Proje\BDO_Project\BDO_Project\bin\Debug\BDO_Project.pdb
+C:\Users\Sevval Kolaca\Desktop\BDO Proje\BDO_Project\BDO_Project\obj\Debug\BDO_Project.csproj.AssemblyReference.cache
+C:\Users\Sevval Kolaca\Desktop\BDO Proje\BDO_Project\BDO_Project\obj\Debug\BDO_Project.BuharkentSantral.resources
+C:\Users\Sevval Kolaca\Desktop\BDO Proje\BDO_Project\BDO_Project\obj\Debug\BDO_Project.Dora3Santral.resources
+C:\Users\Sevval Kolaca\Desktop\BDO Proje\BDO_Project\BDO_Project\obj\Debug\BDO_Project.efelerSantral.resources
+C:\Users\Sevval Kolaca\Desktop\BDO Proje\BDO_Project\BDO_Project\obj\Debug\BDO_Project.formSantral.resources
+C:\Users\Sevval Kolaca\Desktop\BDO Proje\BDO_Project\BDO_Project\obj\Debug\BDO_Project.Properties.Resources.resources
+C:\Users\Sevval Kolaca\Desktop\BDO Proje\BDO_Project\BDO_Project\obj\Debug\BDO_Project.csproj.GenerateResource.cache
+C:\Users\Sevval Kolaca\Desktop\BDO Proje\BDO_Project\BDO_Project\obj\Debug\BDO_Project.csproj.CoreCompileInputs.cache
+C:\Users\Sevval Kolaca\Desktop\BDO Proje\BDO_Project\BDO_Project\obj\Debug\BDO_Project.exe
+C:\Users\Sevval Kolaca\Desktop\BDO Proje\BDO_Project\BDO_Project\obj\Debug\BDO_Project.pdb
